@@ -13,7 +13,15 @@
 
 
 ## Future Additions
-- [ ] Add something that queries the Mojang API to convert UUID -> IGN
-- [ ] Refactor and reorganize the code to be easier to work with
-- [ ] Link the stat to their column name so you don't have to update two places at once
-- [ ] Add some preset assortments of interesting stats
+- [x] Add something that queries the Mojang API to convert UUID -> IGN
+- [x] Refactor and reorganize the code to be easier to work with
+- [x] Link the stat to their column name so you don't have to update two places at once
+- [x] Add some preset assortments of interesting stats
+  - [ ] Add a preset with all the stats included
+- [ ] Read scoreboard stats
+- [ ] Implement custom stats
+  - [ ] Blocks Mined (Sum of all blocks mined)
+  - [ ] Total Craft (Sum of all items crafted)
+- [ ] UI?
+  - [ ] Add a pop up for selecting template file, and world file
+  - [ ] Maybe a
