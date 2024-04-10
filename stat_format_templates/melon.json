@@ -1,0 +1,22 @@
+{
+    "stats": {
+        "minecraft:picked_up": {
+            "minecraft:melon_slice": "Melons"
+        },
+        "minecraft:custom": {
+            "minecraft:play_time": "Time",
+            "minecraft:aviate_one_cm": "Distance By Elytra"
+        },
+        "minecraft:mined": {
+            "minecraft:dirt": "Dirt Mined",
+            "minecraft:grass_block": "Grass Mined"
+        },
+        "minecraft:used": {
+            "minecraft:dirt": "Dirt Used",
+            "minecraft:grass_block": "Grass Used",
+            "minecraft:moss_block": "Moss Used",
+            "minecraft:firework_rocket": "Fireworks Used",
+            "minecraft:melon_seeds": "Melon Seeds Planted"
+        }
+    }
+}

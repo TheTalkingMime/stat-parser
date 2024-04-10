@@ -1,0 +1,18 @@
+{
+    "stats": {
+        "minecraft:custom": {
+            "minecraft:play_time": "Time",
+            "minecraft:aviate_one_cm": "Distance By Elytra",
+            "minecraft:deaths": "Deaths",
+            "minecraft:open_shulker_box": "Shulkers Opened"
+        },
+        "minecraft:used": {
+            "minecraft:totem_of_undying": "Totems Used",
+            "minecraft:diamond_pickaxe": "Diamond Pickaxe Uses",
+            "minecraft:diamond_shovel": "Diamond Shovel Uses",
+            "minecraft:diamond_axe": "Diamond Axe Uses",
+            "minecraft:diamond_hoe": "Diamond Hoe Uses",
+            "minecraft:firework_rocket": "Fireworks Used"
+        }
+    }
+}
